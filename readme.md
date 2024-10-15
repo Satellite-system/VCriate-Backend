@@ -1,4 +1,3 @@
-```md
 # Online Quiz Application Backend
 
 This is a RESTful API for an online quiz application built using Node.js, Express.js, and MongoDB. The API allows users to register and log in, manage quizzes (create, retrieve, attempt quizzes), and view quiz results. It uses JWT for user authentication.
